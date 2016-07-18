@@ -1,0 +1,25 @@
+{
+  "name": "concerti",
+  "version": "1.0.0",
+  "description": "Official website of Concerti",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Concerti/concerti.github.io.git"
+  },
+  "author": "Concerti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Concerti/concerti.github.io/issues"
+  },
+  "homepage": "https://github.com/Concerti/concerti.github.io#readme",
+  "dependencies": {
+    "bourbon": "^4.2.7",
+    "font-awesome": "^4.6.3",
+    "jquery": "^3.1.0",
+    "normalize.css": "^4.2.0"
+  }
+}
